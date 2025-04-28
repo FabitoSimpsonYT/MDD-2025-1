@@ -1,3 +1,5 @@
+//Nombre: Fabián Mora
+
 //Ejercicio 1
 
 console.log("Ejercicio 1:")
